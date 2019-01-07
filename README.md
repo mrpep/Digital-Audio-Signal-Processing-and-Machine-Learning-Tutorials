@@ -3,6 +3,7 @@
 This is a repository where I will upload Jupyter notebooks with tutorials on Audio DSP and Machine Learning.
 
 - Dimensionality reduction for audio organization - English
+  
   Watch online in:
 
   What you will learn:
@@ -12,6 +13,7 @@ This is a repository where I will upload Jupyter notebooks with tutorials on Aud
     - Combine dimensionality reduction techniques and use them to explore interactively audio.
 
 - Separación de componentes armónicas y percusivas (HPSS) - Spanish
+  
   Watch online in:
   https://nbviewer.jupyter.org/github/mrpep/Tutoriales-Procesamiento-de-audio/blob/master/HPSS.ipynb
   
