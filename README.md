@@ -4,7 +4,7 @@ This is a repository where I will upload Jupyter notebooks with tutorials on Aud
 
 - Dimensionality reduction for audio organization - English
   
-  Watch online in:
+  Watch online in: https://github.com/mrpep/Digital-Audio-Signal-Processing-and-Machine-Learning-Tutorials/blob/master/Audio%20exploration.ipynb
 
   What you will learn:
     - Preparing audio data and extracting features with libROSA.
